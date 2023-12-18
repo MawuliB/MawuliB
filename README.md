@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MawuliB
 - 👀 I’m interested in AI and Software Development
 - 🌱 I’m currently learning Deep Learning 
-- 💞️ I’m looking to collaborate on anything as far I am conversant or learn
+- 💞️ I’m looking to collaborate on anything as far I am conversant or learning
 - 📫 How to reach me https://www.linkedin.com/in/mawuli-badassou-8a3021225/
 
 <!---
