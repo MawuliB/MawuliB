@@ -1,6 +1,5 @@
 <!-- Profile Views Section -->
-## 🌐 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=MawuliB&color=blue&style=flat)
+![🌐 Profile Views](https://komarev.com/ghpvc/?username=MawuliB&color=blue&style=flat)
 
 <!-- Header Section with Gradient Background -->
 <div style="background: linear-gradient(45deg, #2193b0, #6dd5ed); padding: 20px; border-radius: 10px;">
@@ -21,8 +20,8 @@
 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
-- [Total Stars](https://img.shields.io/github/stars/MawuliB?style=social)
-- [Mawuli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MawuliB&count_private=true&show_icons=true&hide=stars&theme=radical)
+[Total Stars](https://img.shields.io/github/stars/MawuliB?style=social)
+[Mawuli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MawuliB&count_private=true&show_icons=true&hide=stars&theme=radical)
 
 <!-- Skills Section -->
 ## 🔧 Skills & Tools
