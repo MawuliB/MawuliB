@@ -20,8 +20,9 @@
 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
-[Total Stars](https://img.shields.io/github/stars/MawuliB?style=social)
-[Mawuli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MawuliB&count_private=true&show_icons=true&hide=stars&theme=radical)
+![Total Stars](https://img.shields.io/github/stars/MawuliB?style=social)
+- 
+![Mawuli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MawuliB&count_private=true&show_icons=true&hide=stars&theme=radical)
 
 <!-- Skills Section -->
 ## 🔧 Skills & Tools
