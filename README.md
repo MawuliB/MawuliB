@@ -1,7 +1,17 @@
-<!-- Header Section -->
-# 👋 Hi, I'm Mawuli Badassou
+<!-- Profile Views Section -->
+## 🌐 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=MawuliB&color=blue&style=flat)
 
-## 💻 Software Engineer | 💾 Backend Developer
+<!-- Header Section with Gradient Background -->
+<div style="background: linear-gradient(45deg, #2193b0, #6dd5ed); padding: 20px; border-radius: 10px;">
+
+  <!-- Header Text -->
+  <h1 style="color: white; text-align: center;">👋 Hi, I'm Mawuli Badassou</h1>
+
+  <!-- Subheader Text -->
+  <h2 style="color: white; text-align: center;">💻 Software Engineer | 💾 Backend Developer</h2>
+
+</div>
 
 <!-- Introduction Section -->
 - 👀 Interested in Software Development and AI.
@@ -11,7 +21,8 @@
 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
-[![Mawuli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MawuliB&count_private=true&show_icons=true&hide=stars&theme=radical)](https://github.com/MawuliB)
+![Total Stars](https://img.shields.io/github/stars/MawuliB?style=social)
+![Mawuli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MawuliB&count_private=true&show_icons=true&hide=stars&theme=radical)
 
 <!-- Skills Section -->
 ## 🔧 Skills & Tools
@@ -27,9 +38,10 @@
 
 <!-- GitHub Contributions Section -->
 ## 🚀 GitHub Contributions
-- Total Contributions: ![Total Contributions](https://img.shields.io/github/commit-activity/m/MawuliB/MawuliB)
-- Current Streak: ![Current Streak](https://img.shields.io/github/commit-activity/streak/MawuliB/MawuliB)
-- Longest Streak: ![Longest Streak](https://img.shields.io/github/commit-activity/streak/MawuliB/MawuliB?&style=flat&logo=git&logoColor=white)
+![Total Contributions](https://img.shields.io/github/commit-activity/m/MawuliB/MawuliB)
+![Current Streak](https://img.shields.io/github/commit-activity/streak/MawuliB/MawuliB?&style=flat&logo=git&logoColor=white)
+![Longest Streak](https://img.shields.io/github/commit-activity/streak/MawuliB/MawuliB?&style=flat&logo=git&logoColor=white)
 
-<!-- Footer Section -->
+
+
 <!-- Feel free to customize or add more sections as needed! -->
