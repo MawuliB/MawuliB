@@ -21,8 +21,8 @@
 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
-![Total Stars](https://img.shields.io/github/stars/MawuliB?style=social)
-![Mawuli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MawuliB&count_private=true&show_icons=true&hide=stars&theme=radical)
+- [Total Stars](https://img.shields.io/github/stars/MawuliB?style=social)
+- [Mawuli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MawuliB&count_private=true&show_icons=true&hide=stars&theme=radical)
 
 <!-- Skills Section -->
 ## 🔧 Skills & Tools
@@ -38,10 +38,6 @@
 
 <!-- GitHub Contributions Section -->
 ## 🚀 GitHub Contributions
-![Total Contributions](https://img.shields.io/github/commit-activity/m/MawuliB/MawuliB)
-![Current Streak](https://img.shields.io/github/commit-activity/streak/MawuliB/MawuliB?&style=flat&logo=git&logoColor=white)
-![Longest Streak](https://img.shields.io/github/commit-activity/streak/MawuliB/MawuliB?&style=flat&logo=git&logoColor=white)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MawuliB)
 
 
-
-<!-- Feel free to customize or add more sections as needed! -->
