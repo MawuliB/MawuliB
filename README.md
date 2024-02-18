@@ -13,7 +13,7 @@
 </div>
 
 <!-- Introduction Section -->
-- 👀 Interested in Software Development and AI.
+- 👀 Interested in Software Development and Everything AI.
 - 🌱 Currently focusing on backend development.
 - 💞 Open to collaboration on interesting projects.
 
