@@ -1,16 +1,12 @@
 <!-- Profile Views Section -->
 ![🌐 Profile Views](https://komarev.com/ghpvc/?username=MawuliB&color=blue&style=flat)
 
-<!-- Header Section with Gradient Background -->
-<div style="background: linear-gradient(45deg, #2193b0, #6dd5ed); padding: 20px; border-radius: 10px; text-align: center;">
+<!-- Typing Animation for Header Text -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2193b0&width=600&lines=👋+Hi,+I'm+Mawuli+Badassou)
 
-  <!-- Typing Animation for Header Text -->
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&width=600&lines=👋+Hi,+I'm+Mawuli+Badassou)
+<!-- Typing Animation for Subheader Text -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=4000&color=2193b0&width=600&lines=💻+Software+Engineer+|+💾+Backend+Developer)
 
-  <!-- Typing Animation for Subheader Text -->
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&width=600&lines=💻+Software+Engineer+|+💾+Backend+Developer)
-
-</div>
 
 <!-- Introduction Section -->
 ## 👋 Introduction
