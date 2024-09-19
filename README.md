@@ -5,14 +5,10 @@
 <div style="background: linear-gradient(45deg, #2193b0, #6dd5ed); padding: 20px; border-radius: 10px; text-align: center;">
 
   <!-- Typing Animation for Header Text -->
-  <h1 style="color: white; padding-right: 10px">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&width=600&lines=👋+Hi,+I'm+Mawuli+Badassou" alt="Typing SVG" />
-  </h1>
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&width=600&lines=👋+Hi,+I'm+Mawuli+Badassou)
 
   <!-- Typing Animation for Subheader Text -->
-  <h2 style="color: white; padding-right: 10px">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=3000&color=FFFFFF&width=600&lines=💻+Software+Engineer+|+💾+Backend+Developer" alt="Typing SVG" />
-  </h2>
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&width=600&lines=💻+Software+Engineer+|+💾+Backend+Developer)
 
 </div>
 
