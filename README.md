@@ -13,9 +13,9 @@
 
 ## 👋 Introduction
 
-- 👀 Interested in Software Development and Everything AI.
-- 🌱 Currently focusing on DevOps.
-- 💞 Open to collaboration on interesting projects.
+👀 Interested in Software Development and Everything AI.
+🌱 Currently focusing on DevOps.
+💞 Open to collaboration on interesting projects.
 
 ## 🌐 Connect With Me
 
