@@ -9,7 +9,7 @@
 
 <!-- Typing Animation for Subheader Text -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=4000&color=2193b0&width=600&lines=💻+Software+Engineer+|+💾+Backend+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=4000&color=2193b0&width=600&lines=💻+DevOps+Engineer+|+💾+Backend+Developer)
 
 ## 👋 Introduction
 
