@@ -92,10 +92,18 @@
 ## 🏅 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect_–_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA" />
-  <img src="https://img.shields.io/badge/AWS_Certified_Developer_–_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DVA" />
-  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CCP" />
+  <a href="https://www.credly.com/users/mawuli-badassou" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect_–_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA" />
+  </a>
+  <a href="https://www.credly.com/users/mawuli-badassou" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Certified_Developer_–_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DVA" />
+  </a>
+  <a href="https://www.credly.com/users/mawuli-badassou" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CCP" />
+  </a>
 </p>
+
+<sub>📜 Verify on <a href="https://www.credly.com/users/mawuli-badassou">Credly</a></sub>
 
 ---
 
