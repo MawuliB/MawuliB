@@ -1,9 +1,11 @@
+<h1 align="center">Hi, I'm Mawuli Badassou 👋</h1>
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MawuliB&color=2193b0&style=flat-square&label=Profile+Views)
+<!-- Cycling subtitle (roles only — name stays static above) -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=2193B0&center=true&vCenter=true&width=620&lines=DevOps+Engineer+%E2%98%81%EF%B8%8F;AWS+Certified+Solutions+Architect;Backend+Developer+%F0%9F%92%BE;Always+automating%2C+always+observing)
 
-<!-- Typing animation header (demolab.com — herokuapp mirror is deprecated) -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2193B0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mawuli+Badassou+%F0%9F%91%8B;DevOps+Engineer+%E2%98%81%EF%B8%8F;AWS+Certified+Solutions+Architect;Backend+Developer+%F0%9F%92%BE)
+![Profile Views](https://komarev.com/ghpvc/?username=MawuliB&color=2193b0&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -87,6 +89,12 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+#### 🌱 Currently Learning
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ## 🏅 Certifications
@@ -112,21 +120,28 @@
 <div align="center">
 
 <a href="https://github.com/MawuliB">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MawuliB&theme=dracula" alt="MawuliB GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MawuliB&theme=dracula" alt="Top Languages" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MawuliB&theme=dracula" alt="MawuliB GitHub stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MawuliB&theme=dracula" alt="Top Languages" />
 </a>
 
 <br />
 
 <a href="https://github.com/MawuliB">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MawuliB&theme=dracula" alt="Most Commit Language" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MawuliB&theme=dracula&utcOffset=0" alt="Productive Time" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MawuliB&theme=dracula" alt="Most Commit Language" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MawuliB&theme=dracula&utcOffset=0" alt="Productive Time" />
 </a>
 
 <br />
 
 <a href="https://github.com/MawuliB">
   <img src="https://streak-stats.demolab.com?user=MawuliB&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<br /><br />
+
+<!-- Contribution activity graph -->
+<a href="https://github.com/MawuliB">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MawuliB&theme=dracula&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </a>
 
 <br /><br />
@@ -148,5 +163,5 @@
 </p>
 
 <div align="center">
-  <sub>⚡ Built and broken in production, then automated. ⚡</sub>
+  <sub><i>Built it. Broke it. Automated it. Observed it.</i></sub>
 </div>
