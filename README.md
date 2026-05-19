@@ -23,7 +23,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mawuli-badassou-8a3021225/" target="_blank">
+  <a href="https://mawuli-vert.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-2193B0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/mawuli-badassou" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/MawuliXbone" target="_blank">
@@ -101,8 +104,15 @@
 <div align="center">
 
 <a href="https://github.com/MawuliB">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MawuliB&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="MawuliB GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MawuliB&layout=compact&hide_border=true&theme=dracula" alt="Top Languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MawuliB&theme=dracula" alt="MawuliB GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MawuliB&theme=dracula" alt="Top Languages" />
+</a>
+
+<br />
+
+<a href="https://github.com/MawuliB">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MawuliB&theme=dracula" alt="Most Commit Language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MawuliB&theme=dracula&utcOffset=0" alt="Productive Time" />
 </a>
 
 <br />
